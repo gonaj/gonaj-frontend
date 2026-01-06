@@ -15,3 +15,6 @@ export const DORMANT_STATE_MESSAGE =
 
 export const LOW_CONFIDENCE_STATE_MESSAGE =
   "Information exists here, but its reliability is uncertain.";
+
+export const HIGH_CONFIDENCE_STATE_MESSAGE =
+  "This information has been observed consistently in this area.";
