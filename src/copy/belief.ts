@@ -9,3 +9,6 @@
 
 export const UNKNOWN_STATE_MESSAGE =
   "Information for this area is currently limited.";
+
+export const DORMANT_STATE_MESSAGE =
+  "Information here has not been observed recently.";
