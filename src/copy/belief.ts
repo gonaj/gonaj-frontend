@@ -12,3 +12,6 @@ export const UNKNOWN_STATE_MESSAGE =
 
 export const DORMANT_STATE_MESSAGE =
   "Information here has not been observed recently.";
+
+export const LOW_CONFIDENCE_STATE_MESSAGE =
+  "Information exists here, but its reliability is uncertain.";
