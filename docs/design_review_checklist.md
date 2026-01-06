@@ -13,7 +13,10 @@
 - This checklist **must be reviewed for every UI‑affecting PR**
 - Each item should be explicitly marked **YES / NO / N/A** during review
 - Any **NO** blocks merge until resolved
+- **Unchecked items are merge blockers** — every item must be explicitly addressed
 - Visual quality or usability improvements **do not override** failed checks
+
+> **Reviewer Accountability:** A reviewer who approves a PR implicitly asserts compliance with this checklist. Reviewers are accountable for constitutional violations.
 
 ---
 
